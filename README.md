@@ -1,5 +1,4 @@
 # CS50's Introduction to Programming with Python
-Harvard Universities Introduction to Programming with Python
 
 ### Exercises inspired by real-world programming problems.
 
@@ -16,7 +15,7 @@ All exercises performed in CS50 Python, with 100%, in 2022. Learned about functi
 | **Week 3**   | `Exceptions` | 
 | **Week 4**   | `Libraries`| 
 | **Week 5**   | `Unit Tests`| 
-| **Week 6**   | `File I/O | 
+| **Week 6**   | `File I/O` | 
 | **Week 7**   | `Regular Expressions`| 
 | **Week 8**   | `Object-Oriented Programming`| 
-| **Project** | `All the above`       | 
+| **Final Project** | `All the above`       | 
