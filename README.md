@@ -7,15 +7,15 @@ All exercises performed in CS50 Python, with 100%, in 2022. Learned about functi
 ---
 **Course Outline**
 
-| Week        | Theme                           | 
-| :---------- | :------------------------------- |
-| **Week 0**   | `Functions` `Variables`         |
-| **Week 1**   | `Conditionals`                            |
-| **Week 2**   | `Loops`                     | 
-| **Week 3**   | `Exceptions` | 
-| **Week 4**   | `Libraries`| 
-| **Week 5**   | `Unit Tests`| 
-| **Week 6**   | `File I/O` | 
-| **Week 7**   | `Regular Expressions`| 
-| **Week 8**   | `Object-Oriented Programming`| 
-| **Final Project** | `All the above`       | 
+| Week        | Theme                           | Status |
+| :---------- | :------------------------------- | :--:
+| **[Week 0](https://github.com/bjarnerossen/CS50P/tree/main/week00)**   | `Functions` `Variables`         | ✅ |
+| **[Week 1](https://github.com/bjarnerossen/CS50P/tree/main/week01)**   | `Conditionals`                            | ✅ |
+| **[Week 2](https://github.com/bjarnerossen/CS50P/tree/main/week02)**   | `Loops`                     |  ✅ |
+| **[Week 3](https://github.com/bjarnerossen/CS50P/tree/main/week03)**   | `Exceptions` |  ✅ |
+| **[Week 4](https://github.com/bjarnerossen/CS50P/tree/main/week04)**   | `Libraries`|  ✅ |
+| **[Week 5](https://github.com/bjarnerossen/CS50P/tree/main/week05)**   | `Unit Tests`|  ✅ |
+| **[Week 6](https://github.com/bjarnerossen/CS50P/tree/main/week06)**   | `File I/O` |  ✅ |
+| **[Week 7](https://github.com/bjarnerossen/CS50P/tree/main/week07)**   | `Regular Expressions`|  ✅ |
+| **[Week 8](https://github.com/bjarnerossen/CS50P/tree/main/week08)**   | `Object-Oriented Programming`|  ✅ |
+| **[Final Project](https://github.com/bjarnerossen/CS50P/tree/main/week09)** | `All the above`       |  ✅ |
