@@ -19,3 +19,7 @@ All exercises performed in CS50 Python, with 100%, in 2022. Learned about functi
 | **[Week 7](https://github.com/bjarnerossen/CS50P/tree/main/week07)**   | `Regular Expressions`|  ✅ |
 | **[Week 8](https://github.com/bjarnerossen/CS50P/tree/main/week08)**   | `Object-Oriented Programming`|  ✅ |
 | **[Final Project](https://github.com/bjarnerossen/CS50P/tree/main/week09)** | `All the above`       |  ✅ |
+
+
+---
+> **DISCLAIMER:** *The code provided in this repository is for educational purposes only. It is intended to demonstrate various concepts and techniques related to programming and software development. The code is not intended to be used as a reference for academic work or submissions.*
