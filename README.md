@@ -5,7 +5,9 @@
 All exercises performed in CS50 Python, with 100%, in 2022. Learned about functions, arguments, and return values; variables and types; conditionals and Boolean expressions; and loops. How to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice.
 
 ---
-**Course Outline**
+### 💻 Technologies
+* `Python programming language`
+### **🗓️ Course Outline**
 
 | Week        | Theme                           | Status |
 | :---------- | :------------------------------- | :--:
