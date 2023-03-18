@@ -11,7 +11,7 @@ All exercises performed in CS50 Python, with 100%, in 2022. Learned about functi
 
 To get started with this repository, simply clone the repository to your local machine.
 ```terminal
-$ git clone https://github.com/bjarnerossen/harvard-cs50p.git
+$ git clone https://github.com/bjarnerossen/Harvard-CS50P.git
 ```
 Each week contains a directory that includes the source code and relevant files for that week's assignments and projects.
 
