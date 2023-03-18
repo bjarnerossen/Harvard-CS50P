@@ -4,10 +4,20 @@
 
 All exercises performed in CS50 Python, with 100%, in 2022. Learned about functions, arguments, and return values; variables and types; conditionals and Boolean expressions; and loops. How to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice.
 
----
-### 💻 Technologies
+## 💻 Technologies
 * `Python programming language`
-### **🗓️ Course Outline**
+
+## 🚀 Getting Started
+
+To get started with this repository, simply clone the repository to your local machine.
+```terminal
+$ git clone https://github.com/bjarnerossen/harvard-cs50p.git
+```
+Each week contains a directory that includes the source code and relevant files for that week's assignments and projects.
+
+
+
+## **🗓️ Course Outline**
 
 | Week        | Theme                           | Status |
 | :---------- | :------------------------------- | :--:
